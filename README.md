@@ -1,2 +1,2 @@
 # mach
-An extensive high performance mathematics library  
+An extensive high performance c++ mathematics library  
