@@ -5,7 +5,7 @@ in different areas such as engineering, physics, computer graphics, visualisatio
 machine learning, financial mathematics and more.
 
 Napier aims to minimise resource usage such a memory and CPU usage
-employing advanced algorithms and data structures in order to achieve sub second
+through the employment of advanced algorithms and data structures in order to achieve sub second
 execution speeds with even the largest inputs. Napier offers support for parallel 
 processing allowing computations to be split into multiple threads or processes 
 to run concurrently.
