@@ -14,4 +14,4 @@ ECL Calculation Core: Seamlessly synthesizing the outputs from the PD, LGD, and 
 
 Carter is engineered to provide a seamless integration with existing financial infrastructures, facilitating real-time decision-making and ensuring scalability. Its modular architecture not only allows for individual core optimization but also enables parallel development and updates without systemic disruptions. Moreover, Carter is designed with regulatory compliance in mind, embedding the latest in financial regulations and risk management best practices to deliver not just insights, but actionable, compliant decision-making tools.
 
-In essence, Carter represents the pinnacle of credit risk assessment technology, offering unparalleled precision, adaptability, and insight, enabling financial institutions to make informed credit decisions with confidence.
+In essence, Carter aims to represent the pinnacle of credit risk assessment technology, offering unparalleled precision, adaptability, and insight, enabling financial institutions to make informed credit decisions with confidence.
