@@ -1,4 +1,4 @@
-<img src="https://github.com/mern-labs/carter/assets/129014318/538eb8e9-400d-45b4-8ae7-288e3cd6510b" width="auto" height="200">
+<img src="https://github.com/mern-labs/carter/assets/129014318/538eb8e9-400d-45b4-8ae7-288e3cd6510b" width="auto" height="100">
 
 
 # Carter 1.0.0
