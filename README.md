@@ -1,5 +1,4 @@
-<img src="https://github.com/mern-labs/carter/assets/129014318/4139f664-d8e1-4ca9-bbf3-3e7ef740e437" width="auto" height="150">
-
+<img src="https://github.com/mern-labs/carter/assets/129014318/6e552be9-f072-42c2-b5ad-a303c017e65" width="auto" height="150">
 
 # Carter 1.0.0
 Carter is an advanced open source credit decision engine, meticulously crafted to serve the nuanced needs of financial institutions. At its core, Carter integrates a quartet of sophisticated subsystems, each powered by a specialized machine learning model, tailored to execute distinct facets of the credit risk assessment process. These models work in concert to evaluate Probability of Default (PD), Loss Given Default (LGD), Exposure at Default (EAD), and subsequently, compute the Expected Credit Loss (ECL), providing a comprehensive risk profile for each credit application.
