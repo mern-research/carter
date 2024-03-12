@@ -2,7 +2,8 @@
 
 
 # Carter 1.0.0
-Developed by @ralphelombo(github)
+Developed by Ralph Elombo
+
 Carter is an advanced open source credit decision engine, meticulously crafted to serve the nuanced needs of financial institutions. At its core, Carter integrates a quartet of sophisticated subsystems, each powered by a specialized machine learning model, tailored to execute distinct facets of the credit risk assessment process. These models work in concert to evaluate Probability of Default (PD), Loss Given Default (LGD), Exposure at Default (EAD), and subsequently, compute the Expected Credit Loss (ECL), providing a comprehensive risk profile for each credit application.
 
 ### PD Core: 
