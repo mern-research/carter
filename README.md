@@ -20,4 +20,4 @@ Carter is engineered to provide a seamless integration with existing financial i
 
 In essence, Carter aims to represent the pinnacle of credit risk assessment technology, offering unparalleled precision, adaptability, and insight, enabling financial institutions to make informed credit decisions with confidence.
 
-Developed by Ralph Elombo
+Developed by Ralph Elombo(@ralphelombo)
